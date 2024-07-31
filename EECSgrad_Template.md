@@ -30,7 +30,7 @@ Publication: (optional)
 
 其他:
 
-## 推研/申请/找工经历
+## 推研/申请/找工/考研经历
 
 * 选校 interview offer
   
@@ -44,4 +44,4 @@ Publication: (optional)
   
   
 * 心路历程
-  (简要介绍申请/推延的经历 自己的心得etc）
+  (简要介绍申请/推研/找工/考研的经历 自己的心得etc）
