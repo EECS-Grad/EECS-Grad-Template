@@ -39,7 +39,7 @@ Publication: (optional)
   |     CMU      | CS PhD  | Offer     |
   |   Cornell    | CS PhD  | Rej       |
   | Northwestern | ECE PhD | Interview |
-  |              |         |           |
+  |     more     |         |           |
   
   
   
